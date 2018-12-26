@@ -40,11 +40,7 @@ public class Aritmética
         double divisao = (double) num1 / num2;
         
         //Imprimindo as frases com suas respectivas variáveis
-        System.out.print("\nA soma dos numeros digitados e: " + soma);
-        System.out.print("\nA subtracao dos numeros digitados e: " + subtracao);
-        System.out.print("\nA multiplicacao dos numeros digitados e: " + multiplicacao);
-        System.out.print("\nA divisao dos numeros digitados e: " + divisao);
-        System.out.print("\n\n");
+        
         
     }//Fim do método main
 }//Fim da classe
